@@ -156,7 +156,13 @@ figure p {
   .sidebar figcaption {
   flex: 2;
   min-height: 50px;
-}
+  }
+  
+  .sidebar figure {
+    display: flex;
+    flex-flow: row;
+    flex: 1 1 20%;
+  }
 }
 
 .fa-star {
