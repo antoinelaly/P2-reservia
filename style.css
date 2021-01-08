@@ -54,7 +54,8 @@ section, footer {
     padding: 0px;
   }
   .main {
-    display: block;
+    /*display: block;*/
+    flex-direction: column;
     padding: 0;
     margin-right: 0;
   }
