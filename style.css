@@ -340,7 +340,8 @@ nav a {
 }
 
 @media (max-width: 600px) {
-  .lemenu .acti a:hover {
+  
+ .lemenu .acti a:hover {
   border-top: 0 !important;
 }
   
@@ -361,7 +362,7 @@ nav a {
     border-bottom: 2px solid #fff;
   }
   
-   .hebe a:hover, acti a:hover, .inscri a:hover {
+   .hebe a:hover, .acti a:hover, .inscri a:hover {
     border-top: 0;
     border-bottom: 2px solid #0065fc;
   }
