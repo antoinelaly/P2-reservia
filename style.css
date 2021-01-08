@@ -340,6 +340,10 @@ nav a {
 }
 
 @media (max-width: 600px) {
+  .lemenu .acti a:hover {
+  border-top: 0 !important;
+}
+  
   .lemenu {
     display: flex;
     flex-wrap: wrap;
