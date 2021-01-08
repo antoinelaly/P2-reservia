@@ -64,6 +64,10 @@ section, footer {
   }
 }
 
+figure:hover {
+  cursor: pointer;
+}
+
 .main figure {
   display: flex;
   flex-flow: column;
