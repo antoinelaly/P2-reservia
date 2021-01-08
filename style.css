@@ -326,13 +326,13 @@ nav a {
   border-top: 3px solid #0065fc;
 }
 
-.lemenu .acti a {
-  color: #222;
+.lemenu .inscri a {
+  color: #0065fc;
 }
 
-.lemenu .acti a:hover {
+/*.lemenu .acti a:hover {
   border-top: 3px solid #0065fc;
-}
+}*/
 
 @media (max-width: 600px) {
   .lemenu {
