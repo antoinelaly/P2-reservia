@@ -134,7 +134,8 @@ padding-top: 4px;padding-bottom: 4px;
 }
 
 .sidebar .lentete i {
-  justify-content: flex-end;
+  align-self: right;
+  padding-right: 15px;
 }
 
 @media (max-width: 600px) {
