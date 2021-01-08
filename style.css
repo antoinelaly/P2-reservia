@@ -319,7 +319,7 @@ nav a {
 }
 
 .inscri a, .acti a, .hebe a {
-  border-top: 6px solid #fff;
+  border-top: 3px solid #fff;
 }
 
 .inscri a:hover, .acti a:hover, .hebe a:hover {
