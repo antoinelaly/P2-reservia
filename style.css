@@ -132,6 +132,7 @@ padding-top: 4px;padding-bottom: 4px;
 .fa-star {
   color: #0065fc;
 }
+
 .fas.grey {
   color: #d9d9d9;
 }
@@ -214,7 +215,6 @@ img {
   box-sizing: border-box;
 }
 
-
 .masonery figure {
   margin-block-start: 0;
   margin-block-end: 0;
@@ -272,6 +272,7 @@ img {
     margin-bottom: 18%;
     }
   }
+
 /* vvv nav vvv */
 
 nav{
@@ -282,20 +283,23 @@ ul{
   padding:0;
   display:flex;
 }
+
 li{
   list-style:none;
 }
+
 .logo{
   width:auto;
   margin-right:auto;
 }
+
 .logo a{
   text-decoration:none;
   padding: 10px;
   display:block;
 }
 
-a{
+a {
   text-decoration:none;
   padding:20px 15px;
   display:block;
@@ -308,7 +312,13 @@ a{
   width: 100%;
   padding: 10px 20px;
 }
+
 .hebe {
+  border-top: 3px solid #fff;
+  align-items: end;
+}
+
+.hebe:hover {
   border-top: 3px solid #ccc;
   align-items: end;
 }
