@@ -1,6 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:300");
 body {font-family: 'Raleway', sans-serif;}
 
+a { 
+  color: #000; 
+}
+
 h4, p { margin: 0;}
 /* passer à flex */
 
