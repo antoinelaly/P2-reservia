@@ -159,9 +159,10 @@ figure p {
   }
   
   .sidebar figure {
-    display: flex;
-    flex-flow: row;
     flex: 1 1 20%;
+  }
+  .sidebar figure img {
+    flex: 1;
   }
 }
 
