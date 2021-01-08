@@ -318,7 +318,7 @@ a {
   align-items: end;
 }
 
-.hebe:hover {
+.hebe a:hover {
   border-top: 3px solid #ccc;
   align-items: end;
 }
