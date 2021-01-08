@@ -278,6 +278,7 @@ img {
 nav{
   display:flex;
 }
+
 ul{
   margin:0;
   padding:0;
@@ -319,7 +320,7 @@ a {
 }
 
 .hebe a:hover {
-  border-top: 3px solid #ccc;
+  border-top: 3px solid #0065fc;
   align-items: end;
 }
 
@@ -329,6 +330,10 @@ a {
 
 .lemenu .acti a {
   color: #222;
+}
+
+.lemenu .acti a:hover {
+  border-top: 3px solid #0065fc;
 }
 
 @media (max-width: 600px) {
