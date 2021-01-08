@@ -343,6 +343,7 @@ nav a {
   
  .lemenu .acti a:hover {
   border-top: 0 !important;
+  border-bottom: 2px solid #0065fc;
 }
   
   .lemenu {
