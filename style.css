@@ -279,32 +279,32 @@ img {
 
 /* vvv nav vvv */
 
-nav{
+nav {
   display:flex;
 }
 
-ul{
+nav ul {
   margin:0;
   padding:0;
   display:flex;
 }
 
-li{
+nav li{
   list-style:none;
 }
 
-.logo{
+.logo {
   width:auto;
   margin-right:auto;
 }
 
-.logo a{
+.logo a {
   text-decoration:none;
   padding: 10px;
   display:block;
 }
 
-a {
+nav a {
   text-decoration:none;
   padding:20px 15px;
   display:block;
@@ -318,18 +318,13 @@ a {
   padding: 10px 20px;
 }
 
-.hebe {
+.inscri, .acti, .hebe {
   border-top: 3px solid #fff;
-  align-items: end;
 }
 
-.hebe a:hover {
+.inscri a:hover, .acti a:hover, .hebe a:hover {
   border-top: 3px solid #0065fc;
-  align-items: end;
-}
-
-.inscri, .acti {
-  border-top: 3px solid #fff;
+  /*align-items: end;*/
 }
 
 .lemenu .acti a {
