@@ -330,9 +330,9 @@ nav a {
   color: #0065fc;
 }
 
-/*.lemenu .acti a:hover {
+.lemenu .acti a:hover {
   border-top: 3px solid #0065fc;
-}*/
+}
 
 @media (max-width: 600px) {
   .lemenu {
