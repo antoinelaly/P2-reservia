@@ -92,7 +92,8 @@ section, footer {
 }
 
 figure p {
-padding-top: 4px;padding-bottom: 4px;
+   padding-top: 4px;
+  padding-bottom: 4px;
 }
 
 .main figure img {
@@ -136,6 +137,7 @@ padding-top: 4px;padding-bottom: 4px;
 .sidebar .lentete i {
   align-self: right;
   padding-right: 15px;
+  margin-bottom: 1em;
 }
 
 @media (max-width: 600px) {
