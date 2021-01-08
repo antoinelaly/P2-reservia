@@ -62,7 +62,7 @@ section, footer {
   .sidebar {
     margin-left: 0px;
     padding: 5px;
-    minimumheight: 600px;
+    min-height: 600px;
   }
 }
 
