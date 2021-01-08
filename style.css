@@ -380,10 +380,12 @@ nav a {
 .filtres {
   display: flex;
 }
+
 .button {
   border: none;
   padding: 15px;
 }
+
 .bsearch, .filtres {
   display: flex;
   margin-top: 15px;
@@ -394,25 +396,30 @@ nav a {
   width: 150px;
   padding: 12px;
 }
+
 .button.map {
   border-radius: 16px 0 0 16px;
 }
+
 .button.rech {
   background-color: #0065fc;
   color: #fff;
   border-radius: 0 16px 16px 0;
 }
+
 .filtres .letitre {
   display: flex;
   align-items: center;
   justify-content: center;
   padding-right: 20px;
 }
+
 .filtres .button {
   border: none;
   padding: 15px;
   background-color: #deecff;
 }
+
 .filtres .fas {
   color: #0065fc;
 }
@@ -425,16 +432,19 @@ nav a {
 .button.dola {
   border-radius: 50px;
 }
+
 .button.child {
   border-radius: 50px;
   width: 45px;
 }
+
 .petitsb {
   border: 2px solid rgb(239, 239, 239);
   padding-right: 15px;
   border-radius: 50px;
   margin: 10px;
 }
+
 .petitsb b {
   padding-left: 5px;
 }
@@ -449,6 +459,7 @@ nav a {
 .plus {
   display: flex;
 }
+
 .plus .button {
   border: 2px solid rgb(239, 239, 239);
   border-radius: 50px;
@@ -457,9 +468,11 @@ nav a {
   background-color: #fff;
   margin-right: 20px;
 }
+
 .plus .fas {
   color: #0065fc;
 }
+
 .plus p {
   display: flex;
   align-items: center;
@@ -495,11 +508,13 @@ nav a {
   background-color: #f2f2f2;
   border-radius: 5px;
 }
+
 .footer .col {
   display: flex;
   margin: 10px;
   flex-basis: calc(33.333% - 20px);
 }
+
 .footer ul {
   display: block;
 }
