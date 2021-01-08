@@ -75,6 +75,10 @@ section, footer {
   box-shadow: 0 7px 15px 1px#D3D3D3;
 }
 
+.main figcaption {
+  padding-left: 10px;
+}
+
 .sidebar figure {
   display: flex;
   flex-flow: row;
