@@ -473,6 +473,9 @@ nav a {
   .petitsb {
     margin: 10px 0;
   }
+  .recherche p {
+    display: none;
+  }
 }
 
 /* vvv footer vvv */
