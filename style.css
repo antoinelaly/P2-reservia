@@ -417,6 +417,11 @@ nav a {
   color: #0065fc;
 }
 
+.fa-search {
+  color: #fff;
+  display: none;
+ }
+
 .button.dola {
   border-radius: 50px;
 }
@@ -476,6 +481,9 @@ nav a {
   .rech p {
     display: none;
   }
+  .fa-search {
+  display: inline;
+ }
 }
 
 /* vvv footer vvv */
