@@ -5,6 +5,12 @@ a {
   color: #000; 
 }
 
+li a {
+  list-style: none;
+  outline: none;
+  text-decoration: none;
+}  
+
 h4, p { margin: 0;}
 /* passer à flex */
 
