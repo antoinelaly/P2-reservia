@@ -452,7 +452,7 @@ nav a {
   margin: 0 auto;
   background-color: rgb(255, 255, 255);
   border: none;
-  border-bottom: 0.3rem solid transparent;
+  border-bottom: 0.3rem solid rgb(239, 239, 239);
 }
 
 .button.rech {
