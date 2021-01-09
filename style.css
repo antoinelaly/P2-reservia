@@ -449,8 +449,8 @@ nav a {
   padding: 11px 12px;
   font: 600 16px Raleway;
   border: none;
-  border-bottom: 2px solid rgb(239, 239, 239);
-  border-top: 2px solid rgb(239, 239, 239);
+  border-bottom: 3px solid rgb(239, 239, 239);
+  border-top: 3px solid rgb(239, 239, 239);
 }
 
 input.rech {
@@ -458,9 +458,8 @@ input.rech {
 }  
 
 input.ville {
-  margin-top: 4px;
+  padding-top: 4px;
   margin-left: -5px;
-  margin-bottom: -5px;
 }  
 
 .button.rech {
