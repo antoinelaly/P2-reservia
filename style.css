@@ -441,12 +441,15 @@ nav a {
 
 labael .map {
   border-radius: 16px 0 0 16px;
+  padding: 10px 12px;
+  background-color: -internal-light-dark(rgb(239, 239, 239);
 }
 
 .bsearch input[type="text" i] {
-    padding: 5px 12px;
-  border-radius: 16px 0 0 16px;
+    padding: 10px 12px;
   font: 600 16px Raleway;
+  border-color: -internal-light-dark(rgb(239, 239, 239), rgb(239, 239, 239));
+  margin: O;
 }
 
 .button.rech {
