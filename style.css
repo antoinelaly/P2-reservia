@@ -446,7 +446,6 @@ nav a {
 }
 
 .bsearch input[type="text" i] {
-  margin-top: 2px;
   padding: 10px 12px;
   font: 600 16px Raleway;
   border: none;
@@ -459,6 +458,7 @@ input.rech {
 }  
 
 input.ville {
+  margin-top: 2px;
   margin-left: -5px;
 }  
 
