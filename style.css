@@ -439,16 +439,16 @@ nav a {
 }
 
 
-.bsearch labael {
+.bsearch labael .map {
   border-radius: 16px 0 0 16px;
   padding: 10px 12px;
   background-color: rgb(239, 239, 239);
 }
 
 .bsearch input[type="text" i] {
-   padding: 10px 12px;
+   /*padding: 10px 12px;*/
   font: 600 16px Raleway;
-  border-color: rgb(239, 239, 239);
+  border-color: #fff /*rgb(239, 239, 239)*/;
   margin: O;
 }
 
