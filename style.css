@@ -6,10 +6,13 @@ a {
 }
 
 li a {
-  list-style: none;
   outline: none;
   text-decoration: none;
 }  
+
+li {
+  list-style: none;
+}
 
 h4, p { margin: 0;}
 /* passer à flex */
