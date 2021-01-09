@@ -443,6 +443,12 @@ labael .map {
   border-radius: 16px 0 0 16px;
 }
 
+.bsearch input[type="text" i] {
+    padding: 5px 12px;
+  border-radius: 16px 0 0 16px;
+  font: 600 16px Raleway;
+}
+
 .button.rech {
   background-color: #0065fc;
   color: #fff;
