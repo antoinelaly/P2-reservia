@@ -446,10 +446,10 @@ nav a {
 }
 
 .bsearch input[type="text" i] {
-   /*padding: 10px 12px;*/
+   padding: 10px 12px;
   font: 600 16px Raleway;
-  border-color: #fff /*rgb(239, 239, 239)*/;
-  margin: O;
+  border-color: rgb(239, 239, 239);
+  margin: O !important;
 }
 
 .button.rech {
