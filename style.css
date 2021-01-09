@@ -473,6 +473,10 @@ nav a {
   margin: 10px;
 }
 
+.petitsb:hover {
+  box-shadow: 0 7px 15px 1px#D3D3D3;
+}
+
 .petitsb b {
   padding-left: 5px;
 }
