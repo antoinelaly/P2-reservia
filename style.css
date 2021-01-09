@@ -458,6 +458,10 @@ nav a {
   border-top: 2px solid rgb(239, 239, 239);
 }
 
+input.rech {
+  margin-left: -15px;
+}  
+
 .button.rech {
   background-color: #0065fc;
   color: #fff;
