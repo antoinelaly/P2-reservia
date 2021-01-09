@@ -475,6 +475,7 @@ nav a {
 
 .petitsb:hover {
   box-shadow: 0 7px 15px 1px#D3D3D3;
+  cursor: pointer;
 }
 
 .petitsb b {
