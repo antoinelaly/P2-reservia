@@ -421,6 +421,7 @@ nav a {
 .button {
   border: none;
   padding: 15px;
+  background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
 }
 
 .bsearch, .filtres {
