@@ -555,18 +555,19 @@ img {
 
 
 /* vvv footer vvv */
-.footer {
+
+footer {
   display: flex;
   background-color: #f2f2f2;
 }
 
-.footer .col {
+footer .col {
   display: flex;
   margin: 10px;
   flex-basis: calc(33.333% - 20px);
 }
 
-.footer ul {
+footer ul {
   display: block;
 }
 
@@ -575,13 +576,13 @@ img {
   padding-bottom: 8px;
 }
 
-.footer li {
+footer li {
   padding-top: 5px;
   padding-bottom: 5px;
 }
 
 @media (max-width: 600px) {
-  .footer {
+  footer {
     display: block;
   }
 }
