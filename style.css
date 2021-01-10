@@ -582,10 +582,7 @@ button {
 
 .footer {
   display: flex;
-  margin: 10px;
-  padding: 25px;
   background-color: #f2f2f2;
-  border-radius: 5px;
 }
 
 .footer .col {
