@@ -18,7 +18,7 @@ h4, p {
   margin: 0;
 }
 
-section, footer { 
+header, section, footer { 
   max-width: 1800px;
   margin: 0 auto !important; 
   padding: 20px 30px;
