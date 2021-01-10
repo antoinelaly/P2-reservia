@@ -453,7 +453,7 @@ nav a {
   border-top: 3px solid rgb(239, 239, 239);
 }
 
-input.rech {
+input.rech, .button.rech {
   margin-left: -10px;
   margin-top: -4px;
 }  
