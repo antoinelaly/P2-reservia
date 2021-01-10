@@ -458,7 +458,7 @@ input.rech {
   margin-top: -4px;
 }  
 
-input.ville {
+.bsearch input.ville {
   position: relative;
   margin-top: 4px;
   margin-left: -5px;
