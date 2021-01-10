@@ -494,6 +494,7 @@ input.rech, .button.rech {
 
 .button.dola {
   border-radius: 50px;
+  width: 45px;
 }
 
 .button.child {
