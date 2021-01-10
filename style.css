@@ -416,6 +416,7 @@ figure p {
     border: 0;
     border-radius: 0;
   }
+  
   .sidebar figcaption {
   flex: 2;
   min-height: 50px;
@@ -436,12 +437,6 @@ figure p {
 .fas.grey {
   color: #d9d9d9;
 }
-
-/*.sidebar i {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-end;
-}*/
 
 .sidebar .etoiles {  
   display: flex;
@@ -466,9 +461,6 @@ img {
   }
 }
 
-
-/* vvv side vvv */
-
 .card-sid {
   background-color: rgb(255, 255, 255);
   border-radius: 4px;
@@ -490,6 +482,8 @@ img {
   }
 }
 
+  
+/* vvv activites vvv */
 
 .marseille h2 {
   margin-block-end: 0;
@@ -498,8 +492,6 @@ img {
  section.marseille {
   padding-bottom: 0; 
 }
-  
-/* vvv activites vvv */
 
 .activites {
   margin: 20px;
