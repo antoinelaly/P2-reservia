@@ -236,8 +236,13 @@ img {
   }
 }
 
+
 .marseille h2 {
   margin-block-end: 0;
+}
+
+ section.marseille {
+  padding-bottom: 0; 
 }
   
 /* vvv activites vvv */
