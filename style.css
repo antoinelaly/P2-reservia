@@ -237,7 +237,7 @@ img {
 }
 
 .marseille h2 {
-  padding-bottom: 0px;
+  margin-block-end: 0;
 }
   
 /* vvv activites vvv */
