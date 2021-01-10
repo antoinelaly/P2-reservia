@@ -459,6 +459,7 @@ input.rech {
 }  
 
 input.ville {
+  position: relative;
   padding-top: 4px;
   margin-left: -5px;
 }  
