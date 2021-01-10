@@ -21,7 +21,7 @@ h4, p {
 header, section, footer { 
   max-width: 1800px;
   margin: 0 auto !important; 
-  padding: 20px 30px;
+  padding: 0 30px;
 }
 
 @media (max-width: 600px) {
