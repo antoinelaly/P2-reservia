@@ -446,7 +446,7 @@ nav a {
 }
 
 .bsearch input[type="text" i] {
-  padding: 11px 12px;
+  padding: 12px 12px 10px 12px;
   font: 600 16px Raleway;
   border: none;
   border-bottom: 3px solid rgb(239, 239, 239);
