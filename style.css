@@ -150,9 +150,8 @@ figure p {
 }
 
 .sidebar .lentete i {
-  align-self: right;
   padding-right: 15px;
-  margin-bottom: 1.2em;
+  margin-bottom: 1.3em;
 }
 
 @media (max-width: 600px) {
