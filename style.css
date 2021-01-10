@@ -283,6 +283,7 @@ button {
 }
 }
 
+/* vvv section parent main side vvv */
 
 .parent {
   display: flex;
@@ -318,7 +319,6 @@ button {
   }
   
   .main {
-    /*display: block;*/
     flex-direction: column;
     padding: 0;
     margin-right: 0;
@@ -437,15 +437,14 @@ figure p {
   color: #d9d9d9;
 }
 
-.sidebar i {
+/*.sidebar i {
   display: flex;
   flex-direction: row;
   align-items: flex-end;
-}
+}*/
 
 .sidebar .etoiles {  
   display: flex;
-  /*height: 25px;*/
   margin-top: auto; 
 }
 
