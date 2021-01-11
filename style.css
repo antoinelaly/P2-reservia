@@ -286,6 +286,9 @@ button {
  .filtres .button {
   height: 100%;
 }
+  .button.rech {
+  border-radius: 16px;
+}
 }
 
 /* vvv section parent main side vvv */
