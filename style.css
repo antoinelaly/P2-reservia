@@ -345,7 +345,7 @@ figure:hover {
 .main figure {
   display: flex;
   flex-flow: column;
-  flex: 1 0 220px;
+  /*flex: 1 0 220px;*/
   padding: 5px;
   margin: 15px;
   background-color: #fff;
