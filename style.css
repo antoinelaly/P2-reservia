@@ -426,7 +426,7 @@ figure p {
   }
   
   .main figure {
-  flex: 0 0 220px;
+  flex: 0;
   }
   
   .sidebar figcaption {
