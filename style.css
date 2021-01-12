@@ -345,7 +345,7 @@ figure:hover {
 .main figure {
   display: flex;
   flex-flow: column;
-  /*flex: 1 0 220px;*/
+  flex: 1 0 220px;
   padding: 5px;
   margin: 15px;
   background-color: #fff;
@@ -424,7 +424,11 @@ figure p {
     border: 0;
     border-radius: 0;
   }
-
+  
+  .main figure {
+  flex: 0 0 220px;
+  }
+  
   .sidebar figcaption {
   flex: 2;
   min-height: 50px;
