@@ -482,13 +482,13 @@ img {
   display: flex;
   flex-flow: column wrap;
   align-content: space-between;
-  height: 600px;
+  height: 500px;
   border-radius: 3px;
 }
 
 .m-container .m-item {
   width: 24%;
-  margin-bottom: 56px /*2%*/;
+  margin-bottom: 2%;
   border-radius: 16px;
   box-shadow: 0 7px 15px 1px#D3D3D3;
   box-sizing: border-box;
@@ -507,15 +507,15 @@ img {
 }
 
 .m-container .it1 img, .m-container .it4 img {
-  height: 520px /*405px*/;
+  height: 405px;
 }
 
 .m-container .it2 img, .m-container .it6 img {
-  height: 244px /*190px*/;
+  height: 190px;
 }
 
 .m-container .it3 img, .m-container .it5 img {
-  height: 142px /*150px*/;
+  height: 150px;
 }
 
 .m-container figcaption {
