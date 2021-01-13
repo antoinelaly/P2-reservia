@@ -485,7 +485,7 @@ img {
   max-width: 1800px;
   display: flex;
   flex-flow: column wrap;
-  /*align-content: space-between;*/
+  align-content: space-between;
   height: 500px;
   border-radius: 3px;
 }
