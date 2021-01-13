@@ -58,10 +58,12 @@ nav li{
 nav a {
   text-decoration:none;
   padding:20px 15px;
+  border-top: 3px solid #fff;
 }
 
 nav a:hover {
   color: #0065fc;
+  border-top: 3px solid #0065fc;
 }  
 
 .lemenu {
