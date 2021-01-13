@@ -579,7 +579,8 @@ footer .col {
 }
 
 footer ul {
-  display: block;
+  display: flex /*block*/;
+  flex-direction: column;
 }
 
 .footer li h4 {
