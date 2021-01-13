@@ -511,11 +511,11 @@ img {
 }
 
 .m-container .it2 img, .m-container .it6 img {
-  height: 340px /*190px*/;
+  height: 240px /*190px*/;
 }
 
 .m-container .it3 img, .m-container .it5 img {
-  height: 300px /*150px*/;
+  height: 200px /*150px*/;
 }
 
 .m-container figcaption {
