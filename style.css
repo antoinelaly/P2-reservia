@@ -52,15 +52,15 @@ nav li{
 }
 
 .logo a {
-  text-decoration:none;
+  /*text-decoration:none;*/
   padding: 10px;
-  display:block;
+  /*display:block;*/
 }
 
 nav a {
   text-decoration:none;
   padding:20px 15px;
-  display:block;
+  /*display:block;*/
 }
 
 nav a:hover {
@@ -75,9 +75,13 @@ nav a:hover {
   padding: 10px 20px;
 }
 
-.inscri a, .acti a, .hebe a {
+.lemenu .inscri a, .lemenu .acti a, .lemenu .hebe a {
   border-top: 3px solid #fff;
 }
+
+/*.lemenu .acti a:hover {
+  border-top: 3px solid #0065fc;
+}*/
 
 .inscri a:hover, .acti a:hover, .hebe a:hover {
   border-top: 3px solid #0065fc;
@@ -85,10 +89,6 @@ nav a:hover {
 
 .lemenu .inscri a {
   color: #0065fc;
-}
-
-.lemenu .acti a:hover {
-  border-top: 3px solid #0065fc;
 }
 
 @media (max-width: 600px) {
