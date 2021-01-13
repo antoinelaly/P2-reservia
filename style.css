@@ -74,7 +74,7 @@ nav a:hover {
   padding: 10px 0;
 }
 
-.lemenu .inscri a, .lemenu .acti a, .lemenu .hebe a {
+/*.lemenu .inscri a, .lemenu .acti a, .lemenu .hebe a {
   border-top: 3px solid #fff;
 }
 
@@ -82,12 +82,12 @@ nav a:hover {
   border-top: 3px solid #0065fc;
 }
 
-.lemenu .inscri a {
-  color: #0065fc;
-}
-
 .lemenu .acti a:hover {
   border-top: 3px solid #0065fc;
+}*/
+
+.lemenu .inscri a {
+  color: #0065fc;
 }
 
 @media (max-width: 600px) {
