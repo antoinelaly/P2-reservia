@@ -98,12 +98,6 @@ nav a:hover {
   border-bottom: 2px solid #0065fc;
 }
   
-  .lemenu {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-  }
-  
   .inscri {
     order: -1;
   }
