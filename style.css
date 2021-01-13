@@ -507,15 +507,15 @@ img {
 }
 
 .m-container .it1 img, .m-container .it4 img {
-  height: 505px /*405px*/;
+  height: 455px /*405px*/;
 }
 
 .m-container .it2 img, .m-container .it6 img {
-  height: 290px /*190px*/;
+  height: 340px /*190px*/;
 }
 
 .m-container .it3 img, .m-container .it5 img {
-  height: 250px /*150px*/;
+  height: 300px /*150px*/;
 }
 
 .m-container figcaption {
