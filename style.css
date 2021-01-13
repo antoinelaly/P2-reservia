@@ -482,7 +482,7 @@ img {
 }
 
 .m-container {
-  max-width: 1800px;
+  /*max-width: 1800px;*/
   display: flex;
   flex-flow: column wrap;
   align-content: space-between;
