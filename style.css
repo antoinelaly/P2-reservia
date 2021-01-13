@@ -58,7 +58,7 @@ nav li{
 
 nav a {
   text-decoration:none;
-  padding:60px 15px;
+  padding: 100px 15px 0 0;
 }
 
 nav a:hover {
