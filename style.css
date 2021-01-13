@@ -393,16 +393,18 @@ figure p {
   border-radius: 16px 0px 0px 16px;
 }
 
-.sidebar figcaption {
+/*.sidebar figcaption {
   background-color: #fff;
   color: #222;
   padding: 10px 10px 2px 15px;
-}
+}*/
 
 .sidebar figcaption {
   display: flex;
   flex-flow: column wrap;
   flex: 3;
+  background-color: #fff;
+  color: #222;
   padding: 10px 10px 0 10px;
 }
 
