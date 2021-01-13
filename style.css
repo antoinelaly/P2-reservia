@@ -34,6 +34,7 @@ header, section, footer {
 
 nav {
   display:flex;
+  margin-top: 50px;
 }
 
 nav ul {
