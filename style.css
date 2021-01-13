@@ -592,9 +592,10 @@ footer li {
   padding-top: 5px;
   padding-bottom: 5px;
 }
-/*
+
 @media (max-width: 600px) {
   footer {
-    display: block;
+    display: flex;
+    flex-direction: column;
   }
-}*/
+}
