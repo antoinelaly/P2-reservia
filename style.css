@@ -69,7 +69,7 @@ nav a:hover {
   flex-direction: row;
   flex-wrap: wrap;
   width: 100%;
-  padding: 10px 20px;
+  padding: 10px 0;
 }
 
 .lemenu .inscri a, .lemenu .acti a, .lemenu .hebe a {
