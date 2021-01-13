@@ -372,7 +372,7 @@ figure:hover {
   box-shadow: 0 7px 15px 1px#D3D3D3;
 }
 
-figure p {
+.sidebar figure p {
    padding-top: 4px;
   padding-bottom: 4px;
 }
