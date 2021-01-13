@@ -47,7 +47,7 @@ nav li{
   list-style:none;
 }
 
-li:child(2) {
+nav li:nth-child(2n){
  padding-top: 50px; 
 }
 
@@ -55,10 +55,6 @@ li:child(2) {
   width:auto;
   margin-right:auto;
 }
-
-/*.logo a {
-  padding: 10px 0;
-}*/
 
 nav a {
   text-decoration:none;
@@ -75,7 +71,6 @@ nav a:hover {
   flex-direction: row;
   flex-wrap: wrap;
   width: 100%;
-  padding: 10px 0;
 }
 
 .lemenu .acti a:hover {
