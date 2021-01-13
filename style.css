@@ -512,28 +512,16 @@ img {
   border-radius: 16px 16px 0px 0px;
 }
 
-.m-container .it1 img {
+.m-container .it1 img, .m-container .it4 img {
   height: 405px;
 }
 
-.m-container .it2 img {
-  height: 187px;
+.m-container .it2 img, .m-container .it6 img {
+  height: 190px;
 }
 
-.m-container .it3 img {
-  height: 147px;
-}
-
-.m-container .it4 img {
-  height: 405px;
-}
-
-.m-container .it5 img {
-  height: 147px;
-}
-
-.m-container .it6 img {
-  height: 187px;
+.m-container .it3 img, .m-container .it5 img {
+  height: 150px;
 }
 
 .m-container figcaption {
