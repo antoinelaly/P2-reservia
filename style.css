@@ -490,8 +490,8 @@ img {
 }
 
 .m-item {
-  /*width: 24%;*/
-  position: relative;
+  width: 24%;
+  /*position: relative;*/
   margin-bottom: 2%;
   border-radius: 16px;
     box-shadow: 0 7px 15px 1px#D3D3D3;
