@@ -51,6 +51,10 @@ nav li:nth-child(2n){
  padding-top: 50px; 
 }
 
+.hebe, .acti, .inscri {
+  padding-top: 25px;
+}
+
 .logo {
   width:auto;
   margin-right:auto;
