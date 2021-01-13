@@ -58,7 +58,7 @@ nav li{
 nav a {
   text-decoration:none;
   padding:20px 15px;
-  border-top: 3px solid #fff;
+  /*border-top: 3px solid #fff;*/
 }
 
 nav a:hover {
@@ -80,11 +80,11 @@ nav a:hover {
 
 .inscri a:hover, .acti a:hover, .hebe a:hover {
   border-top: 3px solid #0065fc;
-}
+}*/
 
 .lemenu .acti a:hover {
   border-top: 3px solid #0065fc;
-}*/
+}
 
 .lemenu .inscri a {
   color: #0065fc;
