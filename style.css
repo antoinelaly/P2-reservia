@@ -482,7 +482,6 @@ img {
 }
 
 .m-container {
-  /*max-width: 1800px;*/
   display: flex;
   flex-flow: column wrap;
   align-content: space-between;
@@ -491,7 +490,7 @@ img {
 }
 
 .m-item {
-  width: 24%;
+  /*width: 24%;*/
   position: relative;
   margin-bottom: 2%;
   border-radius: 16px;
