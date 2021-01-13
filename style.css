@@ -37,9 +37,9 @@ nav {
 }
 
 nav ul {
+  display:flex;
   margin:0;
   padding:0;
-  display:flex;
 }
 
 nav li{
@@ -103,9 +103,11 @@ nav a:hover {
     flex-wrap: wrap;
     flex-direction: row;
   }
+  
   .inscri {
     order: -1;
   }
+  
   .logo {
     order: -2;
   }
@@ -123,6 +125,7 @@ nav a:hover {
   .lemenu {
     padding: 10px;
   }
+  
   .acti {
     padding-left: 20px;
   }
@@ -150,7 +153,6 @@ nav a:hover {
 .button.map {
   border-radius: 16px 0 0 16px;
 }
-
 
 .bsearch labael .map {
   border-radius: 16px 0 0 16px;
@@ -271,21 +273,27 @@ button {
     flex-wrap: wrap;
     flex-direction: row;
   }
+  
   .filtres .letitre {
     padding: 10px 100px 10px 0;
   }
+  
   .petitsb {
     margin: 10px 2px;
   }
+  
   .rech p {
     display: none;
   }
+  
   .fa-search {
   display: inline;
  }
+  
  .filtres .button {
   height: 100%;
 }
+  
   .button.rech {
   border-radius: 16px;
 }
@@ -331,6 +339,7 @@ button {
     padding: 0;
     margin-right: 0;
   }
+  
   .sidebar {
     margin-left: 0px;
     padding: 5px;
@@ -553,6 +562,7 @@ img {
   align-content: space-between;
   height: 2100px;
   }
+  
   .masonery .m-item {
     width: 100%;
     margin-bottom: 8%;
