@@ -563,7 +563,9 @@ img {
    }
 }
 
-
+@media (min-width: 1880px) {
+   height: 800px;
+}
 
 /* vvv footer vvv */
 
