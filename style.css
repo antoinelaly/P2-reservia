@@ -504,39 +504,39 @@ img {
   box-sizing: border-box;
 }
 
-.masonery figure {
+.m-container figure {
   margin-block-start: 0;
   margin-block-end: 0;
   margin-inline-start: 0;
   margin-inline-end: 0;
 }
 
-.masonery img {
+.m-container img {
   object-fit: cover;
   border-radius: 16px 16px 0px 0px;
 }
 
-.masonery .it1 img {
+.m-container .it1 img {
   height: 405px;
 }
 
-.masonery .it2 img {
+.m-container .it2 img {
   height: 187px;
 }
 
-.masonery .it3 img {
+.m-container .it3 img {
   height: 147px;
 }
 
-.masonery .it4 img {
+.m-container .it4 img {
   height: 405px;
 }
 
-.masonery .it5 img {
+.m-container .it5 img {
   height: 147px;
 }
 
-.masonery .it6 img {
+.m-container .it6 img {
   height: 187px;
 }
 
@@ -557,14 +557,14 @@ img {
   height: 2100px;
   }
   
-  .masonery .m-item {
+  .m-container .m-item {
     width: 100%;
     margin-bottom: 8%;
    }
 }
 
 @media (min-width: 1880px) {
-   height: 800px;
+   height: 1800px;
 }
 
 /* vvv footer vvv */
