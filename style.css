@@ -489,7 +489,7 @@ img {
   border-radius: 3px;
 }
 
-.m-item {
+.m-container .m-item {
   width: 24%;
   margin-bottom: 2%;
   border-radius: 16px;
