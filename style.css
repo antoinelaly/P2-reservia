@@ -579,7 +579,7 @@ footer .col {
 }
 
 footer ul {
-  display: flex /*block*/;
+  display: flex;
   flex-direction: column;
 }
 
@@ -592,9 +592,9 @@ footer li {
   padding-top: 5px;
   padding-bottom: 5px;
 }
-
+/*
 @media (max-width: 600px) {
   footer {
     display: block;
   }
-}
+}*/
