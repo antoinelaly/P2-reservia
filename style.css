@@ -52,15 +52,12 @@ nav li{
 }
 
 .logo a {
-  /*text-decoration:none;*/
-  padding: 10px;
-  /*display:block;*/
+  padding: 10px 0;
 }
 
 nav a {
   text-decoration:none;
-  padding:20px 15px;
-  /*display:block;*/
+  padding:20px 0 /*15px*/;
 }
 
 nav a:hover {
@@ -79,9 +76,9 @@ nav a:hover {
   border-top: 3px solid #fff;
 }
 
-/*.lemenu .acti a:hover {
+.lemenu .acti a:hover {
   border-top: 3px solid #0065fc;
-}*/
+}
 
 .inscri a:hover, .acti a:hover, .hebe a:hover {
   border-top: 3px solid #0065fc;
