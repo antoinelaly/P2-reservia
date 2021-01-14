@@ -551,6 +551,10 @@ img {
     width: 100%;
     margin-bottom: 8%;
    }
+  
+  section.marseille {
+    margin: 10px 20px;
+  }
 }
 
 @media (min-width: 1880px) {
