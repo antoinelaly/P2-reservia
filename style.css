@@ -297,7 +297,7 @@ section.parent {
   /*padding-top: 50px;*/
 }
 
-.parent h2 { 
+.parent h2, .parent h3 { 
   width: 100%;
   padding-left: 25px;
 }
