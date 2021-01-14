@@ -291,16 +291,12 @@ button {
   
   .bsearch input[type="text" i] {
   font: 600 18px Raleway;
-  width: 150px;
+  width: 50px;
   }
   
   .button.rech, .filtres .letitre b {
   font-size: 14px;
   }
-  
-  .button.map {
-    padding: 14px 15px 17px 14px
-    margin-top: 10px;
 }
 
 /* vvv section parent main side vvv */
@@ -335,7 +331,7 @@ section.parent {
   .parent {
     display: flex;
     flex-direction: column-reverse;
-    /*padding: 0px;*/
+    padding: 0px;
   align-items: center;
   justify-content: center;
   }
@@ -553,7 +549,7 @@ img {
   .m-container {
     display: flex;
   flex-flow: row wrap;
-  /*padding: 5px;*/
+  padding: 5px;
   margin: 10px;
   align-content: space-between;
   height: 2100px;
