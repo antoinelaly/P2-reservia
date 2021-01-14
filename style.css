@@ -138,7 +138,7 @@ nav a:hover {
 
 .bsearch input[type="text" i] {
   padding: 9px 12px 12px 12px;
-  font: 600 16px Raleway;
+  font: 600 22px Raleway;
   color: #000;
   border: none;
   border-bottom: 3px solid var(--gris);
@@ -164,6 +164,7 @@ input.rech, .button.rech {
   background-color: var(--blue);
   color: #fff;
   border-radius: 0 16px 16px 0;
+  font-size: 18px;
 }
 
 .filtres .letitre {
@@ -216,7 +217,7 @@ button {
 
 .petitsb b {
   padding-left: 5px;
-  font-size: 22px;
+  font-size: 18px;
 }
 
 .petitsb.dog {
