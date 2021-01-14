@@ -503,9 +503,9 @@ img {
 }
 
 .m-container img {
-  object-fit: none /*cover*/;
+  object-fit: cover;
   border-radius: 16px 16px 0px 0px;
-  vertical-align: top;
+  object-position: top;
 }
 
 .m-container .it1 img, .m-container .it4 img {
