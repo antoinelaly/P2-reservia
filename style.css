@@ -90,7 +90,7 @@ nav a:hover {
 @media (max-width: 600px) {
   nav a {
      margin-top: 40px;
-    padding: 40px 20px;
+    padding: 20px;
   }
   
  nav a:hover {
