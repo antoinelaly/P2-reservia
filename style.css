@@ -522,7 +522,7 @@ img {
   object-position: top;
 }
 
-.m-container it2 img {
+.m-container .m-item.it2 img {
   object-position: 50% 50%;
 }
 
