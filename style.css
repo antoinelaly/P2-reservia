@@ -260,6 +260,9 @@ button {
     flex-direction: row;
   }
   
+  section.lesfiltres {
+    margin: 20px;
+  
   .filtres .letitre {
     padding: 10px 100px 10px 0;
   }
@@ -335,7 +338,7 @@ section.parent {
   }
   
   .sidebar {
-    margin-left: 0px;
+    margin-left: 20px;
     padding: 5px;
     min-height: 550px;
   }
