@@ -153,6 +153,7 @@ nav a:hover {
 input.rech, .button.rech {
   margin-left: -10px;
   margin-top: -4px;
+  padding: 12px;
 }  
 
 .bsearch input.ville {
