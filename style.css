@@ -353,9 +353,12 @@ section.parent {
   }
   
   .sidebar {
-    /*margin-left: 20px;*/
+    /*margin-left: 20px;
     padding: 5px;
     min-height: 550px;
+  align-items: center;
+  justify-content: center;*/
+      display: flex;
   align-items: center;
   justify-content: center;
   }
