@@ -293,6 +293,7 @@ button {
 
 .parent {
   display: flex;
+  padding-top: 50px;
 }
 
 .parent h3 { 
