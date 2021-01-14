@@ -462,6 +462,7 @@ figure:hover {
   min-height: 50px;
     margin: 10px;
     padding: 0;
+    width: 100%;
   }
   
   .sidebar figure img {
