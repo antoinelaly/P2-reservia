@@ -379,7 +379,7 @@ figure:hover {
   object-fit: cover;
   position: relative;
   overflow: hidden;
-  height: 100px;
+  height: 110px;
   border-radius: 16px 16px 0px 0px;
 }
 
