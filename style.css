@@ -168,7 +168,7 @@ input.rech, .button.rech {
 }  
 
 .button.rech {
-  background-color: var(--claire) /*#0065fc*/;
+  background-color: var(--blue) /*#0065fc*/;
   color: #fff;
   border-radius: 0 16px 16px 0;
 }
@@ -187,7 +187,7 @@ input.rech, .button.rech {
 }
 
 .filtres .fas {
-  color: var(--blue) /*#0065fc*/;
+  color: /*var(--blue)*/ #0065fc;
 }
 
 .fa-search {
@@ -206,7 +206,7 @@ input.rech, .button.rech {
 }
 
 .petitsb {
-  border: 2px solid var(--gris) /*rgb(239, 239, 239)*/;
+  border: 2px solid /*var(--gris)*/ rgb(239, 239, 239);
   padding-right: 15px;
   border-radius: 50px;
   margin: 10px;
