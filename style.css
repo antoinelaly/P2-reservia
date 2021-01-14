@@ -355,9 +355,15 @@ section.parent {
   justify-content: center;
   }
   
+  .main h2 {
+    font-size: 1.2em;
+  }
+  
   .sidebar {
-  align-items: center;
   padding: 0px;
+  }
+  fa-chart-line {
+    padding-right: 10px;
   }
 }
 
@@ -564,7 +570,7 @@ img {
   padding: 5px;
   margin: 10px;
   align-content: space-between;
-  height: 2100px;
+  height: 1900px;
   }
   
   .m-container .m-item {
