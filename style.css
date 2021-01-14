@@ -89,7 +89,7 @@ nav a:hover {
 }
 
 .lemenu .inscri a {
-  color: #0065fc;
+  color: var(--blue);
 }
 
 @media (max-width: 600px) {
@@ -130,31 +130,31 @@ nav a:hover {
 .button {
   border: none;
   padding: 15px;
-  background-color: var(--claire)/*-internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59))*/;
+  background-color: var(--claire);
 }
 
-.adress {
+/*.adress {
   border: 2px solid rgb(239, 239, 239);
   width: 150px;
   padding: 12px;
-}
+}*/
 
 .button.map {
   border-radius: 16px 0 0 16px;
 }
 
-.bsearch labael .map {
+/*.bsearch labael .map {
   border-radius: 16px 0 0 16px;
   padding: 10px 12px;
   background-color: rgb(239, 239, 239);
-}
+}*/
 
 .bsearch input[type="text" i] {
   padding: 9px 12px 12px 12px;
   font: 600 16px Raleway;
   border: none;
-  border-bottom: 3px solid rgb(239, 239, 239);
-  border-top: 3px solid rgb(239, 239, 239);
+  border-bottom: 3px solid var(--gris) /*rgb(239, 239, 239)*/;
+  border-top: 3px solid var(--gris) /*rgb(239, 239, 239)*/;
 }
 
 input.rech, .button.rech {
@@ -168,7 +168,7 @@ input.rech, .button.rech {
 }  
 
 .button.rech {
-  background-color: #0065fc;
+  background-color: var(--claire) /*#0065fc*/;
   color: #fff;
   border-radius: 0 16px 16px 0;
 }
@@ -183,11 +183,11 @@ input.rech, .button.rech {
 .filtres .button {
   border: none;
   padding: 15px;
-  background-color: #deecff;
+  background-color: var(--claire) /*#deecff*/;
 }
 
 .filtres .fas {
-  color: #0065fc;
+  color: var(--blue) /*#0065fc*/;
 }
 
 .fa-search {
@@ -206,14 +206,14 @@ input.rech, .button.rech {
 }
 
 .petitsb {
-  border: 2px solid rgb(239, 239, 239);
+  border: 2px solid var(--gris) /*rgb(239, 239, 239)*/;
   padding-right: 15px;
   border-radius: 50px;
   margin: 10px;
 }
 
 .petitsb:hover {
-  box-shadow: 0 7px 15px 1px#D3D3D3;
+  box-shadow: 0 7px 15px 1pxvar(--gris) /*#D3D3D3*/;
   cursor: pointer;
 }
 
