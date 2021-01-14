@@ -270,6 +270,7 @@ button {
   
   .petitsb {
     margin: 10px 2px;
+    font-size: 14px;
   }
   
   .rech p {
@@ -290,6 +291,7 @@ button {
   
   .bsearch input[type="text" i] {
   font: 600 18px Raleway;
+  width: 50px;
   }
   
   .button.rech, .filtres .letitre b {
