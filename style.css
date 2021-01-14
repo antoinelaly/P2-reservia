@@ -523,7 +523,7 @@ img {
 }
 
 .m-container it2 img {
-  object-position: center !important;
+  object-position: 50% 50%;
 }
 
 .m-container .it1 img, .m-container .it4 img {
