@@ -389,6 +389,14 @@ figure:hover {
   padding-top: 5px;
 }
 
+.main figure img {
+  object-fit: cover;
+  position: relative;
+  overflow: hidden;
+  height: 110px;
+  border-radius: 16px 16px 0px 0px;
+}
+
 .sidebar figure {
   display: flex;
   flex-flow: row;
@@ -405,12 +413,9 @@ figure:hover {
   padding-bottom: 4px;
 }
 
-.main figure img {
-  object-fit: cover;
-  position: relative;
-  overflow: hidden;
-  height: 110px;
-  border-radius: 16px 16px 0px 0px;
+/* test */
+.sidebar p {
+    flex-grow: 1;
 }
 
 .sidebar figure img {
@@ -460,16 +465,19 @@ figure:hover {
   .sidebar figcaption {
   flex: 2;
   min-height: 50px;
-    margin: 10px;
+    /*margin: 10px;
     padding: 0;
-    width: 100%;
+    width: 100%;*/
   }
   
   .sidebar figure img {
     flex: 1;
   }
   
-    
+  .sidebar figure {
+    flex: 1 1 20%;
+  }
+  
 }
 
 .fa-star {
