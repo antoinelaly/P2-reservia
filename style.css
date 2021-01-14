@@ -1,6 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:300");
 body {font-family: 'Raleway', sans-serif;margin: 0px;}
 
+:root {
+  --blue: #0065FC;
+  --claire: #DEEBFF;
+  --gris: #F2F2F2;
+}
+
 a { 
   color: #000; 
 }
@@ -66,8 +72,8 @@ nav a {
 }
 
 nav a:hover {
-  color: #0065fc;
-  border-top: 3px solid #0065fc;
+  color: var(--blue);
+  border-top: 3px solid var(--blue);
 }  
 
 .lemenu {
