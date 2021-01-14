@@ -32,7 +32,7 @@ header, section, footer {
 
 @media (max-width: 600px) {
   section, header {
-    padding: 4%;
+    padding: 10px;
   }
 }
 
