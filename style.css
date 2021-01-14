@@ -40,7 +40,7 @@ header, section, footer {
 
 nav {
   display:flex;
-  padding: 15px 0;
+  padding-top: 15px;
 }
 
 nav ul {
