@@ -152,9 +152,10 @@ nav a:hover {
 .bsearch input[type="text" i] {
   padding: 9px 12px 12px 12px;
   font: 600 16px Raleway;
+  color: #000;
   border: none;
-  border-bottom: 3px solid var(--gris) /*rgb(239, 239, 239)*/;
-  border-top: 3px solid var(--gris) /*rgb(239, 239, 239)*/;
+  border-bottom: 3px solid var(--gris);
+  border-top: 3px solid var(--gris);
 }
 
 input.rech, .button.rech {
