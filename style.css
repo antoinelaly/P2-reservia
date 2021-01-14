@@ -27,7 +27,7 @@ h4, p {
 header, section, footer { 
   max-width: 1800px;
   margin: 0 auto !important; 
-  padding: 10px 40px;
+  padding: 10px 35px;
 }
 
 @media (max-width: 600px) {
@@ -288,6 +288,14 @@ button {
   .button.rech {
   border-radius: 16px;
 }
+  
+  .bsearch input[type="text" i] {
+  font: 600 18px Raleway;
+  }
+  
+  .button.rech, .filtres .letitre b {
+  font-size: 16px;
+  }
 }
 
 /* vvv section parent main side vvv */
