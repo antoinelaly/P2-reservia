@@ -30,11 +30,11 @@ header, section, footer {
   padding: 10px 35px;
 }
 
-@media (max-width: 600px) {
+/*@media (max-width: 600px) {
   section, header {
     padding: 0;
   }
-}
+}*/
 
 /* vvv nav vvv */
 
@@ -87,8 +87,7 @@ nav a:hover {
   color: var(--blue);
 }
 
-@media (max-width: 600px) {
-  
+/*@media (max-width: 600px) {
   nav a {
   margin-top: 40px;
     padding: 40px 20px;
@@ -97,7 +96,7 @@ nav a:hover {
  nav a:hover {
   border-top: 0 !important;
   border-bottom: 2px solid var(--blue);
-}
+}*/
   
   .inscri {
     order: -1;
@@ -254,7 +253,7 @@ button {
   justify-content: center;
 }
 
-@media (max-width: 600px) {
+/*@media (max-width: 600px) {
   .filtres {
     display: flex;
     flex-wrap: wrap;
@@ -296,7 +295,7 @@ button {
   .button.rech, .filtres .letitre b {
   font-size: 16px;
   }
-}
+}*/
 
 /* vvv section parent main side vvv */
 
