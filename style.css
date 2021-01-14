@@ -32,7 +32,7 @@ header, section, footer {
 
 @media (max-width: 600px) {
   section, header {
-    padding: 5%;
+    padding: 4%;
   }
 }
 
@@ -260,12 +260,12 @@ button {
     flex-direction: row;
   }
   
-  section.lesfiltres {
-    margin: 5%;
-  }
-  
   .filtres .letitre {
     padding: 10px 100px 10px 0;
+  }
+  
+  .petitsb {
+  margin: 2px;
   }
   
   .petitsb b {
