@@ -503,7 +503,7 @@ img {
 }
 
 .m-container img {
-  object-fit: cover;
+  object-fit: none /*cover*/;
   border-radius: 16px 16px 0px 0px;
   vertical-align: top;
 }
