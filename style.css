@@ -21,7 +21,7 @@ h4, p {
 header, section, footer { 
   max-width: 1800px;
   margin: 0 auto !important; 
-  padding: 0 30px;
+  padding: 10px 40px;
 }
 
 @media (max-width: 600px) {
@@ -34,7 +34,7 @@ header, section, footer {
 
 nav {
   display:flex;
-  padding-top: 15px;
+  padding: 15px 0;
 }
 
 nav ul {
