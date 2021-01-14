@@ -162,7 +162,7 @@ input.rech, .button.rech {
 }  
 
 .button.rech {
-  background-color: var(--blue) /*#0065fc*/;
+  background-color: var(--blue);
   color: #fff;
   border-radius: 0 16px 16px 0;
 }
@@ -177,11 +177,11 @@ input.rech, .button.rech {
 .filtres .button {
   border: none;
   padding: 15px;
-  background-color: var(--claire) /*#deecff*/;
+  background-color: var(--claire);
 }
 
 .filtres .fas {
-  color: var(--blue) /*#0065fc*/;
+  color: var(--blue);
 }
 
 .fa-search {
@@ -200,14 +200,14 @@ input.rech, .button.rech {
 }
 
 .petitsb {
-  border: 2px solid /*var(--gris)*/ rgb(239, 239, 239);
+  border: 2px solid var(--gris);
   padding-right: 15px;
   border-radius: 50px;
   margin: 10px;
 }
 
 .petitsb:hover {
-  box-shadow: 0 7px 15px 1pxvar(--gris) /*#D3D3D3*/;
+  box-shadow: 0 7px 15px 1px#D3D3D3;
   cursor: pointer;
 }
 
@@ -220,7 +220,7 @@ button {
 }
 
 .petitsb.dog {
-  border: 2px solid rgb(239, 239, 239);
+  /*border: 2px solid rgb(239, 239, 239);*/
   padding-right: 15px;
   border-radius: 50px;
   margin: 10px;
@@ -232,7 +232,7 @@ button {
 }
 
 .plus .button {
-  border: 2px solid rgb(239, 239, 239);
+  /*border: 2px solid rgb(239, 239, 239);*/
   border-radius: 50px;
   padding: 6px;
   width: 30px;
@@ -393,7 +393,7 @@ figure:hover {
 }
 
 .grid-area {
-  background-color: #f2f2f2;
+  background-color: var(--gris) /*#f2f2f2*/;
   border-radius: 18px;
 }
 
@@ -429,11 +429,11 @@ figure:hover {
 }
 
 .fa-star {
-  color: #0065fc;
+  color: var(--blue) /*#0065fc*/;
 }
 
 .fas.grey {
-  color: #d9d9d9;
+  color: var(--gris) /*#d9d9d9*/;
 }
 
 .sidebar .etoiles {  
@@ -542,7 +542,7 @@ img {
 
 footer {
   display: flex;
-  background-color: #f2f2f2;
+  background-color: var(--gris) /*#f2f2f2*/;
 }
 
 footer .col {
