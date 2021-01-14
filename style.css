@@ -27,7 +27,7 @@ h4, p {
 header, section, footer { 
   max-width: 1800px;
   margin: 0 auto !important; 
-  padding: 25px 40px;
+  padding: 10px 40px;
 }
 
 @media (max-width: 600px) {
@@ -463,7 +463,7 @@ img {
 /* vvv activites vvv */
 
  section.marseille {
-   padding-top: 50px;
+   padding-top: 25px;
   padding-bottom: 0; 
 }
 
