@@ -356,7 +356,8 @@ section.parent {
   }
   
   .sidebar {
-  align-items: center
+  align-items: center;
+  padding: 0px;
   }
 }
 
