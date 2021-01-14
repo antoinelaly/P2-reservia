@@ -48,7 +48,7 @@ nav li{
 }
 
 /*nav li:nth-child(2), nav li:nth-child(3), nav li:nth-child(4), {
- padding-top: 50px; 
+ padding-top: 20px; 
 }*/
 
 .hebe, .acti, .inscri {
@@ -62,7 +62,7 @@ nav li{
 
 nav a {
   text-decoration:none;
-  padding: 30px 15px;
+  padding: 25px 15px;
 }
 
 nav a:hover {
