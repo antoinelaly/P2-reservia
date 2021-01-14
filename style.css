@@ -133,12 +133,6 @@ nav a:hover {
   background-color: var(--claire);
 }
 
-/*.adress {
-  border: 2px solid rgb(239, 239, 239);
-  width: 150px;
-  padding: 12px;
-}*/
-
 .button.map {
   border-radius: 16px 0 0 16px;
 }
@@ -150,6 +144,11 @@ nav a:hover {
   border: none;
   border-bottom: 3px solid var(--gris);
   border-top: 3px solid var(--gris);
+}
+
+.bsearch ::placeholder {
+  color: #000;
+  font-weight: 600;
 }
 
 input.rech, .button.rech {
