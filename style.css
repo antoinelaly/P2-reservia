@@ -508,6 +508,10 @@ img {
   object-position: top;
 }
 
+.m-container it2 img {
+  object-position: center !important;
+}
+
 .m-container .it1 img, .m-container .it4 img {
   height: 405px;
 }
