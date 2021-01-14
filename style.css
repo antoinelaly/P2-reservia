@@ -128,7 +128,7 @@ nav a:hover {
 
 .button {
   border: none;
-  padding: 15px;
+  padding: 19px;
   background-color: var(--claire);
 }
 
@@ -137,12 +137,12 @@ nav a:hover {
 }
 
 .bsearch input[type="text" i] {
-  padding: 9px 12px 12px 12px;
+  padding: 8px 12px 14px 12px;
   font: 600 22px Raleway;
   color: #000;
   border: none;
-  border-bottom: 3px solid var(--gris);
-  border-top: 3px solid var(--gris);
+  border-bottom: 2px solid var(--gris);
+  border-top: 2px solid var(--gris);
 }
 
 .bsearch ::placeholder {
