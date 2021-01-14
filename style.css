@@ -563,6 +563,7 @@ footer ul {
   display: flex;
   flex-direction: column;
   padding-inline-start: 0px;
+  padding-bottom: 25px;
 }
 
 .footer li h4 {
