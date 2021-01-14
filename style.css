@@ -545,13 +545,14 @@ footer {
 
 footer .col {
   display: flex;
-  margin: 10px;
+  /*margin: 10px;*/
   flex-basis: calc(33.333% - 20px);
 }
 
 footer ul {
   display: flex;
   flex-direction: column;
+  padding-inline-start: 0px;
 }
 
 .footer li h4 {
