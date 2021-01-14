@@ -331,18 +331,24 @@ section.parent {
     display: flex;
     flex-direction: column-reverse;
     padding: 0px;
+    margin-left: auto;
+  margin-right: auto;
   }
   
   .main {
     flex-direction: column;
     padding: 0;
-    margin-right: 0;
+    /*margin-right: 0;*/
+    margin-left: auto;
+  margin-right: auto;
   }
   
   .sidebar {
-    margin-left: 20px;
+    /*margin-left: 20px;*/
     padding: 5px;
     min-height: 550px;
+    margin-left: auto;
+  margin-right: auto;
   }
 }
 
@@ -554,7 +560,9 @@ img {
    }
   
   section.marseille {
-    margin: 10px 20px;
+    /*margin: 10px 20px;*/
+    margin-left: auto;
+  margin-right: auto;
   }
 }
 
