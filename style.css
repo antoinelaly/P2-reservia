@@ -134,10 +134,12 @@ nav a:hover {
 
 .button.map {
   border-radius: 16px 0 0 16px;
+  padding: 18px;
+  background-color: var(--gris);
 }
 
 .bsearch input[type="text" i] {
-  padding: 8px 12px 13px 12px;
+  padding: 8px 12px 14px 12px;
   font: 600 22px Raleway;
   color: #000;
   border: none;
