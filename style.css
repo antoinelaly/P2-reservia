@@ -177,6 +177,10 @@ input.rech, .button.rech {
   padding-right: 20px;
 }
 
+.filtres .letitre b {
+font-size: 18px;
+}
+
 .filtres .button {
   border: none;
   padding: 15px;
@@ -293,7 +297,7 @@ section.parent {
   /*padding-top: 50px;*/
 }
 
-.parent h3 { 
+.parent h2 { 
   width: 100%;
   padding-left: 25px;
 }
