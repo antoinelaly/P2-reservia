@@ -52,7 +52,7 @@ nav li{
 }*/
 
 .hebe, .acti, .inscri {
-  padding-top: 38px;
+  padding-top: 20px;
 }
 
 .logo {
@@ -62,7 +62,7 @@ nav li{
 
 nav a {
   text-decoration:none;
-  padding: 20px 15px;
+  padding: 30px 15px;
 }
 
 nav a:hover {
