@@ -595,6 +595,10 @@ img {
     margin-left: auto;
   margin-right: auto;
   }
+  
+  .m-container img {
+  height: 110px;
+  }
 }
 
 @media (min-width: 1880px) {
