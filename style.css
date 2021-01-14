@@ -52,10 +52,6 @@ nav li{
   list-style:none;
 }
 
-/*nav li:nth-child(2), nav li:nth-child(3), nav li:nth-child(4), {
- padding-top: 20px; 
-}*/
-
 .hebe, .acti, .inscri {
   padding-top: 20px;
 }
@@ -228,7 +224,6 @@ button {
 }
 
 .petitsb.dog {
-  /*border: 2px solid rgb(239, 239, 239);*/
   padding-right: 15px;
   border-radius: 50px;
   margin: 10px;
@@ -302,7 +297,6 @@ button {
 
 section.parent {
   display: flex;
-  /*padding-top: 50px;*/
 }
 
 .parent h2, .parent h3 { 
@@ -409,7 +403,7 @@ figure:hover {
 }
 
 .grid-area {
-  background-color: var(--gris) /*#f2f2f2*/;
+  background-color: var(--gris);
   border-radius: 18px;
 }
 
@@ -445,11 +439,11 @@ figure:hover {
 }
 
 .fa-star {
-  color: var(--blue) /*#0065fc*/;
+  color: var(--blue);
 }
 
 .fas.grey {
-  color: var(--gris) /*#d9d9d9*/;
+  color: var(--gris);
 }
 
 .sidebar .etoiles {  
@@ -563,12 +557,11 @@ img {
 
 footer {
   display: flex;
-  background-color: var(--gris) /*#f2f2f2*/;
+  background-color: var(--gris);
 }
 
 footer .col {
   display: flex;
-  /*margin: 10px;*/
   flex-basis: calc(33.333% - 20px);
 }
 
