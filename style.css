@@ -264,7 +264,7 @@ button {
     padding: 10px 100px 10px 0;
   }
   
-  .petitsb {
+  .petitsb, .petitsb.dog {
   margin: 2px;
   }
   
@@ -291,11 +291,19 @@ button {
   
   .bsearch input[type="text" i] {
   font: 600 18px Raleway;
-  width: 50px;
+  width: 150px;
   }
   
   .button.rech, .filtres .letitre b {
   font-size: 14px;
+  }
+  
+  .button.map {
+    padding: 16px 16px 16px 16px;
+  }
+  
+  .plus .button {
+    width: 50px;
   }
 }
 
