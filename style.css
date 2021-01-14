@@ -456,9 +456,11 @@ figure:hover {
   }
   
   .sidebar figcaption {
-  flex: 2;
-  min-height: 50px;
+    display: block;
+  /*flex: 2;
+  min-height: 50px;*/
     margin: 10px;
+    padding: 0;
   }
   
   .sidebar figure img {
