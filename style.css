@@ -84,7 +84,7 @@ nav a:hover {
 }
 
 .lemenu .acti a:hover {
-  border-top: 3px solid #0065fc;
+  border-top: 3px solid var(--blue);
 }
 
 .lemenu .inscri a {
@@ -99,7 +99,7 @@ nav a:hover {
   
  nav a:hover {
   border-top: 0 !important;
-  border-bottom: 2px solid #0065fc;
+  border-bottom: 2px solid var(--blue);
 }
   
   .inscri {
@@ -129,7 +129,7 @@ nav a:hover {
 .button {
   border: none;
   padding: 15px;
-  background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+  background-color: var(--claire)/*-internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59))*/;
 }
 
 .adress {
