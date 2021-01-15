@@ -92,6 +92,10 @@ nav a:hover {
   color: var(--blue);
 }
 
+.hebeacti {
+  display:flex;
+}
+
 @media (max-width: 600px) {
     nav {
     padding-top: 0;
@@ -131,7 +135,6 @@ nav a:hover {
   }
   
   .hebeacti {
-    display:flex;
     width: 100vw;
     padding-bottom: 10px;
     border-bottom: 2px solid var(--gris);
