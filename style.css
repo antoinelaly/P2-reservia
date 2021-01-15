@@ -375,7 +375,6 @@ section.parent {
   .main {
     flex-direction: column;
     padding: 0;
-    /*margin-right: 0;*/
   align-items: center;
   justify-content: center;
   }
@@ -503,15 +502,15 @@ figure:hover {
 }
 
 @media (max-width: 780px) {
-.main {
-  display: flex;
-  flex-wrap: wrap;
-  flex: 1;
-  justify-content: space-around;
-  flex-direction: row;
-  padding: 20px;
-  margin-right: 35px;
-}
+  .main {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    justify-content: space-around;
+    flex-direction: row;
+    padding: 20px;
+    margin-right: 35px;
+  }
    .sidebar figcaption {
   flex: 2;
   min-height: 50px;
@@ -633,7 +632,6 @@ img {
    }
   
   section.marseille {
-    /*margin: 10px 20px;*/
     margin-left: auto;
   margin-right: auto;
   }
@@ -649,6 +647,12 @@ img {
 
 @media (min-width: 1880px) {
    height: 1800px;
+}
+
+@media (max-width: 780px) { 
+  .m-container .m-item {
+  width: 11%;
+  }
 }
 
 /* vvv footer vvv */
