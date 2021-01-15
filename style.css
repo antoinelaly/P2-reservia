@@ -556,8 +556,8 @@ img {
 /* vvv activites vvv */
 
  section.marseille {
-   padding-top: 20px;
-  padding-bottom: 20px; 
+   padding-top: 40px;
+  padding-bottom: 40px; 
 }
 
 .activites {
@@ -598,15 +598,15 @@ img {
 }
 
 .m-container .it1 img, .m-container .it4 img {
-  height: 414px;
+  height: 400px;
 }
 
 .m-container .it2 img, .m-container .it6 img {
-  height: 190px;
+  height: 180px;
 }
 
 .m-container .it3 img, .m-container .it5 img {
-  height: 150px;
+  height: 145px;
 }
 
 .m-container figcaption {
