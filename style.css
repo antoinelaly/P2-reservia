@@ -136,6 +136,11 @@ nav a:hover {
     padding-bottom: 10px;
     border-bottom: 2px solid var(--gris);
   }
+  
+  .hebe, .acti {
+    align-items: center;
+    justify-content: center;
+}
 }
 
 /* vvv filtres vvv */
