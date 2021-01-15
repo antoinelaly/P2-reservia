@@ -311,6 +311,12 @@ button {
 }
 
 @media (max-width: 780px) {
+    .filtres {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  
     .petitsb b, .button.rech, .filtres .letitre b  {
     font-size: 14px !important;
   }
