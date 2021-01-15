@@ -372,7 +372,7 @@ section.parent {
 .sidebar {
   display: flex;
   flex-direction: column;
-  flex: 1 30px;
+  flex: 1 40px;
   padding: 20px;
 }
 
