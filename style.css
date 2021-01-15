@@ -167,8 +167,8 @@ input.rech, .button.rech {
 }
 
 .button.rech  h5 {
-    margin-block-start: 0;
-    margin-block-end: 0;
+ margin-block-start: 0.2em;
+ margin-block-end: 00.15em;
 }
 
 .filtres .letitre {
