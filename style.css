@@ -329,6 +329,7 @@ button {
   }
   
    .bsearch input[type="text" i] {
+  padding: 14px 12px 14px 12px;
   font: 600 14px Raleway;
   width: 150px;
   }
