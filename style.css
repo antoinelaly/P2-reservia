@@ -164,8 +164,8 @@ nav a:hover {
   font: 800 18px Raleway;
   color: #000;
   border: none;
-  border-bottom: 2px solid var(--gris);
-  border-top: 2px solid var(--gris);
+  border-bottom: 1px solid var(--gris);
+  border-top: 1px solid var(--gris);
 }
 
 .bsearch ::placeholder {
@@ -316,7 +316,7 @@ button {
   
   .bsearch input[type="text" i] {
   font: 600 14px Raleway;
-  width: 150px;
+  width: 232px;
   }
   
   .button.rech, .filtres .letitre b {
