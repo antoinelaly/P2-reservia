@@ -494,7 +494,7 @@ figure:hover {
 
 @media (max-width: 600px) {
   .main.grid-area {
-    padding-top: 50px;
+    padding-top: 30px;
     background-color: #fff;
     border-radius: 0;
     border: 0;
@@ -507,13 +507,11 @@ figure:hover {
   }
   
   .sidebar figcaption {
-  flex: 2;
   min-height: 50px;
   }
   
   .sidebar figure img {
     height: 120px;
-    flex: 1;
   }
   
   .sidebar figure {
