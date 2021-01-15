@@ -522,10 +522,6 @@ figure:hover {
   .sidebar figure img {
     flex: 1;
   }
-  
-  .sidebar figure {
-    flex: 1 1 20%;
-  }
 }
 
 .fa-star {
