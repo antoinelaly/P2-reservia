@@ -166,6 +166,11 @@ input.rech, .button.rech {
   font-size: 18px;
 }
 
+.button.rech  h5 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
 .filtres .letitre {
   display: flex;
   align-items: center;
@@ -296,6 +301,10 @@ button {
   
   .button.rech, .filtres .letitre b {
   font-size: 14px;
+  }
+  
+  .button.rech  h5 {
+    display: none; 
   }
   
   .button.map {
