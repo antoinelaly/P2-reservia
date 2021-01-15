@@ -650,8 +650,11 @@ img {
 }
 
 @media (max-width: 780px) { 
+  .m-container {
+  height: 1000px;
+  }
   .m-container .m-item {
-  width: 11%;
+  width: 44%;
   }
 }
 
