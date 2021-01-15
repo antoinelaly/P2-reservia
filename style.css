@@ -57,7 +57,7 @@ nav li{
 }
 
 .hebe, .acti, .inscri {
-  padding-top: 20px;
+  padding-top: 26px;
 }
 
 .logo {
@@ -104,6 +104,9 @@ nav a:hover {
   nav .hebe a, nav .acti a {
     border-top: 0 !important;
     border-bottom: 2px solid var(--gris);
+    padding-top: 40px;
+    padding-left: 50px; 
+    padding-right: 50px;
   }
   
  nav a:hover {
