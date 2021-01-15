@@ -324,15 +324,12 @@ button {
     padding: 14px 16px 16px 16px;
   }
   
-  .plus .button {
-    width: 50px;
-  }
   .plus {
   margin-top: 20px;
   }
   
    .bsearch input[type="text" i] {
-  font: 600 18px Raleway;
+  font: 600 14px Raleway;
   width: 150px;
   }
 }
