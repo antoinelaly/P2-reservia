@@ -665,7 +665,8 @@ img {
   height: 1000px;
   }
   .m-container .m-item {
-  width: 44%;
+  width: 46%;
+  justify-content: space-around;
   }
 }
 
