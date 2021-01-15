@@ -310,6 +310,22 @@ button {
   }
 }
 
+@media (max-width: 760px) {
+    .petitsb b, .button.rech, .filtres .letitre b  {
+    font-size: 14px !important;
+  }
+    .button.map {
+    padding: 14px 16px 16px 16px;
+  }
+  
+  .plus .button {
+    width: 50px;
+  }
+  .plus {
+  margin-top: 20px;
+  }
+}
+
 /* vvv section parent main side vvv */
 
 section.parent {
@@ -465,9 +481,6 @@ figure:hover {
   .sidebar figcaption {
   flex: 2;
   min-height: 50px;
-    /*margin: 10px;
-    padding: 0;
-    width: 100%;*/
   }
   
   .sidebar figure img {
@@ -478,6 +491,24 @@ figure:hover {
     flex: 1 1 20%;
   }
   
+}
+
+@media (max-width: 760px) {
+.main figure {
+    flex: 1 0 220px;
+  }
+   .sidebar figcaption {
+  flex: 2;
+  min-height: 50px;
+  }
+  
+  .sidebar figure img {
+    flex: 1;
+  }
+  
+  .sidebar figure {
+    flex: 1 1 20%;
+  }
 }
 
 .fa-star {
