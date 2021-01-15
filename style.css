@@ -32,7 +32,7 @@ header, section, footer {
 
 @media (max-width: 600px) {
   section, header {
-    padding: 10px;
+    padding: 10px 20px;
   }
 }
 
@@ -112,7 +112,7 @@ nav a:hover {
   }
   
   .lemenu {
-    padding: 0px 10px;
+    padding: 21px 8px;
   }
   
   .acti {
