@@ -232,12 +232,6 @@ button {
   font-size: 18px;
 }
 
-/*.petitsb.dog {
-  padding-right: 15px;
-  border-radius: 50px;
-  margin: 10px;
-}*/
-
 .plus {
   display: flex;
   margin-bottom: 25px;
@@ -372,7 +366,7 @@ section.parent {
 .sidebar {
   display: flex;
   flex-direction: column;
-  flex: 1 40px;
+  flex: 1 35px;
   padding: 20px;
 }
 
