@@ -520,6 +520,11 @@ figure:hover {
     padding: 20px;
     margin-right: 35px;
   }
+  
+    .sidebar {
+  flex: 1 0px;
+  }
+  
    .sidebar figcaption {
   flex: 2;
   min-height: 50px;
