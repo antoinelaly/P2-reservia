@@ -474,7 +474,7 @@ figure:hover {
 }
 
 @media (max-width: 600px) {
-  main.grid-area {
+  .main.grid-area {
     background-color: #fff;
     border-radius: 0;
     border: 0;
