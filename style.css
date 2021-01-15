@@ -138,8 +138,8 @@ nav a:hover {
   }
   
   .hebe, .acti {
-    align-items: center;
-    justify-content: center;
+    padding-left: 20%; 
+    padding: right: 20%;
 }
 }
 
