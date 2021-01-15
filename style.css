@@ -657,7 +657,11 @@ img {
   
   .m-container .it1 img, .m-container .it4 img, .m-container .it2 img, .m-container .it6 img, .m-container .it3 img, .m-container .it5 img {
   height: 110px;
-}
+  }
+  
+  .marseille h3 {
+    padding-left: 25px;
+  }
 }
 
 @media (min-width: 1880px) {
