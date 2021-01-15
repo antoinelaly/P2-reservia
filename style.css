@@ -232,11 +232,11 @@ button {
   font-size: 18px;
 }
 
-.petitsb.dog {
+/*.petitsb.dog {
   padding-right: 15px;
   border-radius: 50px;
   margin: 10px;
-}
+}*/
 
 .plus {
   display: flex;
