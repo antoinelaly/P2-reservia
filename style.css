@@ -475,6 +475,7 @@ figure:hover {
 
 @media (max-width: 600px) {
   .main.grid-area {
+    padding-top: 50px;
     background-color: #fff;
     border-radius: 0;
     border: 0;
@@ -492,6 +493,7 @@ figure:hover {
   }
   
   .sidebar figure img {
+    height: 80px;
     flex: 1;
   }
   
