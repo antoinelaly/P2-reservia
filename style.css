@@ -632,7 +632,7 @@ img {
     display: flex;
   flex-flow: row wrap;
   padding: 5px;
-  margin: 10px;
+  /*margin: 10px;*/
   align-content: space-between;
   height: 1100px;
   }
