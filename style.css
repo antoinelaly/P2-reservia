@@ -273,8 +273,8 @@ button {
     padding: 10px 100px 10px 0;
   }
   
-  .petitsb, .petitsb.dog {
-  margin: 2px;
+  .petitsb {
+  margin: 6px 2px;
   }
   
   .petitsb b {
