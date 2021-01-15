@@ -133,7 +133,7 @@ nav a:hover {
   .hebeacti {
     display:flex;
     width: 100vw;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     border-bottom: 2px solid var(--gris);
   }
 }
