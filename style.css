@@ -310,7 +310,7 @@ button {
   }
 }
 
-@media (max-width: 780px) {
+@media only screen and (min-width: 601px) and (max-width: 780px) {
     .filtres {
     display: flex;
     flex-wrap: wrap;
@@ -501,7 +501,7 @@ figure:hover {
   
 }
 
-@media (max-width: 780px) {
+@media only screen and (min-width: 601px) and (max-width: 780px) {
   .main {
     display: flex;
     flex-wrap: wrap;
@@ -649,7 +649,7 @@ img {
    height: 1800px;
 }
 
-@media (max-width: 780px) { 
+@media only screen and (min-width: 601px) and (max-width: 780px) { 
   .m-container {
   height: 1000px;
   }
