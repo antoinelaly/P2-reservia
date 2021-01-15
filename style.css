@@ -310,7 +310,7 @@ button {
   }
 }
 
-@media (max-width: 760px) {
+@media (max-width: 780px) {
     .petitsb b, .button.rech, .filtres .letitre b  {
     font-size: 14px !important;
   }
@@ -493,7 +493,7 @@ figure:hover {
   
 }
 
-@media (max-width: 760px) {
+@media (max-width: 780px) {
 .main figure {
     flex: 1 0 220px;
   }
