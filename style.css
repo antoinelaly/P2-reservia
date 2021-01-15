@@ -101,10 +101,15 @@ nav a:hover {
     padding: 10px 20px;
   }
   
+  nav .hebe a, nav .acti a {
+    border-top: 0 !important;
+    border-bottom: 2px solid var(--gris);
+  }
+  
  nav a:hover {
     border-top: 0 !important;
     border-bottom: 2px solid var(--blue);
-}
+  }
   
   .inscri {
     order: -1;
