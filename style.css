@@ -754,4 +754,7 @@ footer li {
     display: flex;
     flex-direction: column;
   }
+  
+  footer ul {
+  padding-bottom: 0px;
 }
