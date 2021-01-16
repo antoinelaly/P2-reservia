@@ -173,10 +173,9 @@ nav a:hover {
     border-bottom: 2px solid var(--gris);
   }
   
-  .hebe a, .acti a {
-    padding-left: 5%; 
-    paading-right: 5%;
-}
+  .hebeacti .hebe a, .hebeacti .acti a {
+    width: 50%;
+  }
 }
 
 /* vvv filtres vvv */
