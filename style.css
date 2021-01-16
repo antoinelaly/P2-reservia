@@ -367,7 +367,8 @@ button {
   
   .plus .button {
     width: 25px;
-   height: 25px;
+   height: 30px;
+   border: 1px solid var(--gris);
   }
   .plus {
   margin-top: 20px;
