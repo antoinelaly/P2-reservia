@@ -184,9 +184,14 @@ nav a:hover {
 
 /* vvv filtres vvv */
 
-.filtres, .bsearch {
+.filtres {
   display: flex;
   margin-top: 25px;
+}
+
+.bsearch {
+  display: flex;
+  margin-top: 15px;
 }
 
 .button {
@@ -293,7 +298,8 @@ button {
 
 .plus {
   display: flex;
-  margin-bottom: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .plus .button {
@@ -321,7 +327,13 @@ button {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
+    margin-top: 25px;
   }
+  
+  .bsearch {
+  display: flex;
+  margin-top: 25px;
+}
   
   .filtres .letitre {
     padding: 10px 200px 10px 0;
@@ -370,9 +382,12 @@ button {
    height: 25px;
    border: 1px solid var(--gris);
   }
+  
   .plus {
+  display: flex;
   margin-top: 20px;
-  }
+  margin-bottom: 25px;
+}
 }
 
 @media only screen and (min-width: 601px) and (max-width: 780px) {
