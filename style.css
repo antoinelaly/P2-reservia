@@ -172,11 +172,13 @@ nav a:hover {
   .hebeacti li {
     align-items: center;
   justify-content: center;
+    justify-content: space-between
   }
   
     .hebeacti li a {
     align-items: center;
   justify-content: center;
+      justify-content: space-between
   }
   
    .hebeacti a:hover {
