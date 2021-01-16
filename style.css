@@ -638,7 +638,7 @@ img {
 
  section.marseille {
    padding-top: 25px;
-  padding-bottom: 50px; 
+  padding-bottom: 0px; 
 }
 
 .activites {
@@ -699,6 +699,11 @@ img {
 }
 
 @media (max-width: 600px) {
+  
+   section.marseille {
+   padding-top: 25px;
+  padding-bottom: 50px; 
+  }
   .m-container {
     display: flex;
   flex-flow: row wrap;
