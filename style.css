@@ -219,23 +219,25 @@ nav a:hover {
   font-weight: 600;
 }
 
-input.rech, .button.rech {
+input.rech {
   margin-left: -10px;
   margin-top: -4px;
   padding: 12px 20px;
 }  
 
+.button.rech {
+  margin-left: -12px;
+  margin-top: -4px;
+  background-color: var(--blue);
+  color: #fff;
+  font-size: 18px;
+  padding: 12px 20px;
+}
+
 .bsearch input.ville {
   margin-top: 4px;
   margin-left: -5px;
 }  
-
-.button.rech {
-  background-color: var(--blue);
-  color: #fff;
-  border-radius: 0 16px 16px 0;
-  font-size: 18px;
-}
 
 .filtres .letitre {
   display: flex;
