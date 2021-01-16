@@ -12,8 +12,12 @@ a {
   color: #000; 
 }
 
-h2, h3, h4, nav a {
+h2, h3, h4 {
   font-weight: 700;
+}
+
+nav a {
+  font-weight: 400;
 }
 
 .parent h2, .parent h3 { 
