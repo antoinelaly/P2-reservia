@@ -623,7 +623,7 @@ img {
 
  section.marseille {
    padding-top: 25px;
-  padding-bottom: 25px; 
+  padding-bottom: 50px; 
 }
 
 .activites {
@@ -696,11 +696,6 @@ img {
     width: 100%;
    }
   
-  section.marseille {
-    margin-left: auto;
-  margin-right: auto;
-  }
-  
   .m-container img {
   height: 110px;
   }
@@ -756,9 +751,8 @@ footer li {
   footer {
     display: flex;
     flex-direction: column;
-    margin-top: 40px;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
   }
   
   footer ul {
