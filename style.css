@@ -270,7 +270,7 @@ font-size: 18px;
 }
 
 .petitsb {
-  border: 2px solid var(--gris);
+  border: 2px solid #d9d9d9;
   padding-right: 15px;
   border-radius: 50px;
   margin: 20px 10px;
