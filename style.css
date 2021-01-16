@@ -138,10 +138,14 @@ nav a:hover {
     padding: 10px 20px;
   }
   
- nav a:hover {
-    border-top: 0 !important;
-    border-bottom: 2px solid var(--blue);
+  .hebeacti nav a {
+     width: 50vw;
   }
+  
+   nav a:hover {
+      border-top: 0 !important;
+      border-bottom: 2px solid var(--blue);
+    }
   
   .inscri {
     order: -1;
