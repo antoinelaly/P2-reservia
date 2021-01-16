@@ -169,7 +169,12 @@ nav a:hover {
     border-bottom: 2px solid var(--gris);
   }
   
-  .hebeacti a {
+  .hebeacti li {
+    align-items: center;
+  justify-content: center;
+  }
+  
+    .hebeacti li a {
     align-items: center;
   justify-content: center;
   }
