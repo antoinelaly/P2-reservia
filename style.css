@@ -186,7 +186,7 @@ nav a:hover {
 
 .filtres {
   display: flex;
-  margin-top: 25px;
+  margin-top: 5px;
 }
 
 .bsearch {
@@ -638,7 +638,7 @@ img {
 
  section.marseille {
    padding-top: 25px;
-  padding-bottom: 0px; 
+  padding-bottom: 15px; 
 }
 
 .activites {
