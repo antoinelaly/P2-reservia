@@ -441,7 +441,7 @@ section.parent {
   
   .sidebar {
   padding: 0px;
-  min-height: 520px;
+  min-height: 550px;
   }
   
   fa-chart-line {
@@ -689,7 +689,7 @@ img {
   flex-flow: row wrap;
   padding: 5px;
   align-content: space-between;
-  height: 1100px;
+  height: 1200px;
   }
   
   .m-container .m-item {
