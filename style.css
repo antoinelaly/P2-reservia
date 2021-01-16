@@ -338,6 +338,10 @@ button {
     padding: 10px 200px 10px 0;
   }
   
+  .lesfiltres h3 {
+    margin-block-start: 0;
+  }
+  
   .petitsb {
   margin: 6px 2px;
   }
@@ -386,7 +390,7 @@ button {
   display: flex;
   margin-top: 20px;
   margin-bottom: 25px;
-}
+  }
 }
 
 @media only screen and (min-width: 601px) and (max-width: 780px) {
