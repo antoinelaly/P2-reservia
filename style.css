@@ -167,18 +167,17 @@ nav a:hover {
     width: 100vw;
     padding-bottom: 10px;
     border-bottom: 2px solid var(--gris);
-  }
-  
-  .hebeacti li {
-    align-items: center;
-  justify-content: center;
     justify-content: space-between
+    -ms-align-items: center;
+    align-items: center;
   }
   
-    .hebeacti li a {
+    .hebeacti a {
+    display: flex;
+    width: 50vw;
+    justify-content: space-between
+    -ms-align-items: center;
     align-items: center;
-  justify-content: center;
-      justify-content: space-between
   }
   
    .hebeacti a:hover {
