@@ -66,8 +66,9 @@ li {
 header, section, footer { 
   max-width: 1800px;
   margin: 0 auto !important; 
-  padding: 10px 35px;
+  padding: 12px 35px;
 }
+
 
 @media (max-width: 600px) {
   section {
