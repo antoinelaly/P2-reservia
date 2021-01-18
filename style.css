@@ -555,6 +555,30 @@ figure:hover {
   margin-top: 1.3em;
 }
 
+.fa-star {
+  color: var(--blue);
+}
+
+.fas.grey {
+  color: var(--gris);
+}
+
+.sidebar .etoiles {  
+  display: flex;
+  margin-top: auto; 
+}
+
+.sidebar p {
+  flex-grow: 1;
+}
+
+img {
+  height: auto;
+  width: 100%;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
 @media (max-width: 600px) {
   .main.grid-area {
     padding-top: 30px;
@@ -590,7 +614,11 @@ figure:hover {
   
   .grid-area {
   border-radius: 0px;
-}
+  }
+   .sidebar .etoiles {  
+    display: block;
+    height: 20px;
+  }
   
 }
 
@@ -619,36 +647,6 @@ figure:hover {
   }
 }
 
-.fa-star {
-  color: var(--blue);
-}
-
-.fas.grey {
-  color: var(--gris);
-}
-
-.sidebar .etoiles {  
-  display: flex;
-  margin-top: auto; 
-}
-
-.sidebar p {
-  flex-grow: 1;
-}
-
-img {
-  height: auto;
-  width: 100%;
-  max-width: 100%;
-  vertical-align: middle;
-}
-
-@media (max-width: 600px) {
-  .sidebar .etoiles {  
-    display: block;
-    height: 20px;
-  }
-}
 
 
 /* vvv activites vvv */
