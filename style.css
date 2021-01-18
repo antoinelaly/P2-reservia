@@ -574,7 +574,7 @@ figure:hover {
     width: 100px;
   }
   
-   .sidebar figcaption h4, .sidebar figcaption p {
+   .sidebar figcaption h4, .sidebar figcaption p, .sidebar figcaption etoiles {
     width: 170px;
   }
   
@@ -584,6 +584,7 @@ figure:hover {
   
   .sidebar figure {
     margin: 8px 16px;
+    height: 125px;
   }
   
   .grid-area {
