@@ -543,7 +543,6 @@ figure:hover {
 
 .sidebar .lentete {
   display: flex;
-  padding-top: 20px;
 }
 
 .sidebar .lentete i {
@@ -579,6 +578,11 @@ figure:hover {
   
   .grid-area {
   border-radius: 0px;
+}
+  
+ .sidebar .lentete {
+  display: flex;
+  padding-top: 20px;
 }
   
 }
