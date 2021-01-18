@@ -645,6 +645,7 @@ img {
 @media (max-width: 600px) {
   .sidebar .etoiles {  
     display: flex;
+    flex-direction: column;
     height: 20px;
   }
 }
