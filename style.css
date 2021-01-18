@@ -571,7 +571,7 @@ figure:hover {
   
   .sidebar figcaption {
     min-height: 50px;
-    width: 100px;
+    width: 170px;
     flex-direction: column;
   }
   
@@ -580,7 +580,7 @@ figure:hover {
   }
   
   .sidebar figure img {
-    height: 120px;
+    height: 128px;
   }
   
   .sidebar figure {
@@ -609,13 +609,13 @@ figure:hover {
   flex: 1 0px;
   }
   
-   .sidebar figcaption {
-  flex: 2;
-  min-height: 50px;
-  }
-  
   .sidebar figure img {
     flex: 1;
+  }
+  
+  .sidebar figcaption {
+  flex: 2;
+  min-height: 50px;
   }
 }
 
