@@ -572,6 +572,7 @@ figure:hover {
   .sidebar figcaption {
     min-height: 50px;
     width: 100px;
+    flex-direction: column;
   }
   
    .sidebar figcaption h4, .sidebar figcaption p, .sidebar figcaption etoiles {
@@ -645,7 +646,6 @@ img {
 @media (max-width: 600px) {
   .sidebar .etoiles {  
     display: flex;
-    flex-direction: column;
     height: 20px;
   }
 }
