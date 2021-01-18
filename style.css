@@ -570,7 +570,8 @@ figure:hover {
   }
   
   .sidebar figcaption {
-  min-height: 50px;
+    min-height: 50px;
+    width: 200px;
   }
   
   .sidebar figure img {
