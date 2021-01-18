@@ -589,7 +589,7 @@ img {
   }
   
   .main figure {
-    flex: 0;
+      flex: 1 1 80px;
     margin: 10px;
   }
   
