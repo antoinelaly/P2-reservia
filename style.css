@@ -541,6 +541,118 @@ img {
 .sidebar {
   display: flex;
   flex-direction: column;
+  flex: 1 30px;
+  padding: 20px;
+}
+
+.sidebar figure {
+  display: flex;
+  flex-flow: row;
+  flex: 0 0 80px;
+  padding: 5px;
+  margin: 16px;
+  background-color: #fff;
+  border-radius: 18px;
+  box-shadow: 0 7px 15px 1px#D3D3D3;
+}
+
+.sidebar figure p {
+   padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+/* test */
+.sidebar p {
+    flex-grow: 1;
+}
+
+.sidebar figure img {
+  object-fit: cover;
+  overflow: hidden;
+  flex: 2;
+  height: 120px;
+  border-radius: 16px 0px 0px 16px;
+}
+
+.sidebar figcaption {
+  display: flex;
+  flex-flow: column wrap;
+  flex: 3;
+  background-color: #fff;
+  color: #222;
+  padding: 10px 10px 0 10px;
+}
+
+.grid-area {
+  background-color: var(--gris);
+  border-radius: 18px;
+}
+
+.sidebar .lentete {
+  display: flex;
+}
+
+.sidebar .lentete i {
+  padding-right: 15px;
+  margin-top: 1.3em;
+}
+
+@media (max-width: 600px) {
+  .sidebar {
+    padding: 0px;
+    min-height: 550px;
+    }
+
+  .sidebar figcaption {
+  flex: 2;
+  min-height: 50px;
+  }
+  
+  .sidebar figure img {
+    flex: 1;
+  }
+  
+  .sidebar figure {
+    flex: 1 1 20%;
+  }
+  
+}
+
+.fa-star {
+  color: var(--blue);
+}
+
+.fas.grey {
+  color: var(--gris);
+}
+
+.sidebar .etoiles {  
+  display: flex;
+  margin-top: auto; 
+}
+
+.sidebar p {
+  flex-grow: 1;
+}
+
+img {
+  height: auto;
+  width: 100%;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+
+@media (max-width: 600px) {
+  .sidebar .etoiles {  
+    display: flex;
+    height: 20px;
+  }
+}
+
+/*.sidebar {
+  display: flex;
+  flex-direction: column;
   flex: 1 35px;
   padding: 20px;
 }
@@ -619,8 +731,6 @@ img {
    .sidebar figcaption {
     min-height: 50px;
     flex: 2;
-    /*width: 170px;
-    flex-direction: column;*/
   }
   
    .sidebar figcaption h4, .sidebar figcaption p {
@@ -629,12 +739,10 @@ img {
   
   .sidebar figure img {
     flex: 1;
-    /*height: 128px;*/
   }
   
   .sidebar figure {
     margin: 8px 16px;
-    /*height: 125px;*/
   }
   
   .grid-area {
@@ -645,12 +753,10 @@ img {
     display: flex;
     display: flex;
     height: 20px;
-    /*width: 100px !important;
-     align-items: start;*/
   }
-}
+}*/
 
-/*@media only screen and (min-width: 601px) and (max-width: 780px) {
+@media only screen and (min-width: 601px) and (max-width: 780px) {
     .sidebar {
   flex: 1 0px;
   }
@@ -663,7 +769,7 @@ img {
   flex: 2;
   min-height: 50px;
   }
-}*/
+}
 
 /* vvv activites vvv */
 
