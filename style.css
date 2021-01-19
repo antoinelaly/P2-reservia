@@ -211,8 +211,8 @@ nav a:hover {
   font: 800 18px Raleway;
   color: #000;
   border: none;
-  border-bottom: 1px solid var(--gris);
-  border-top: 1px solid var(--gris);
+  border-bottom: 2px solid var(--gris);
+  border-top: 2px solid var(--gris);
 }
 
 .bsearch ::placeholder {
@@ -232,8 +232,7 @@ input.rech {
   background-color: var(--blue);
   color: #fff;
   font-size: 18px;
-  /*padding: 12px 20px;*/
-  padding: 10px 20px 14px 20px;
+  padding: 12px 20px 14px 20px;
   border-radius: 0 16px 16px 0;
 }
 
