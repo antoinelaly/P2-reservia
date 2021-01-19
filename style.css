@@ -650,7 +650,7 @@ img {
   }
 }
 
-@media only screen and (min-width: 601px) and (max-width: 780px) {
+/*@media only screen and (min-width: 601px) and (max-width: 780px) {
     .sidebar {
   flex: 1 0px;
   }
@@ -663,7 +663,7 @@ img {
   flex: 2;
   min-height: 50px;
   }
-}
+}*/
 
 /* vvv activites vvv */
 
