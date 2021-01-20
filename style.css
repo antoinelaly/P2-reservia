@@ -459,10 +459,7 @@ section.parent {
   .main {
     flex-direction: column;
     padding: 15px 0;
-  }
-  
-  fa-chart-line {
-    padding-right: 10px;
+    margin: 16px;
   }
 }
 
