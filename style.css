@@ -449,16 +449,12 @@ section.parent {
 
 @media (max-width: 600px) {
   .parent {
-    display: flex;
     flex-direction: column-reverse;
-    padding: 10px;
-  /*align-items: center;
-  justify-content: center;*/
   }
   
   .main {
     flex-direction: column;
-    padding: 15px 0;
+    /*padding: 15px 0;*/
     margin: 16px;
   }
 }
