@@ -24,7 +24,7 @@ nav a, .plus p {
   font-size: 15px;
 }
 
-.sidebar h3 { 
+.main h2, .sidebar h3 { 
   width: 100%;
   padding-left: 25px;
 }
