@@ -760,9 +760,9 @@ img {
   }
 }
 
-@media (min-width: 1880px) {
+/*@media (min-width: 1880px) {
    height: 1800px;
-}
+}*/
 
 @media only screen and (min-width: 601px) and (max-width: 780px) { 
   .m-container {
