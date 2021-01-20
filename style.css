@@ -463,7 +463,7 @@ section.parent {
   
   .main {
     flex-direction: column;
-    margin-right: 30px;
+    margin-right: 24px;
   }
 }
 
@@ -742,7 +742,7 @@ img {
   .m-container {
     display: flex;
   flex-flow: row wrap;
-  padding: 5px;
+  padding: 0;
   align-content: space-between;
   height: 1200px;
   }
