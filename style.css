@@ -37,8 +37,12 @@ nav a, .plus p {
 }
 
 @media (max-width: 600px) {
-  .sidebar h3, .main h2 {
+  .main h2 {
     padding-left: 5px;
+  }  
+  
+   .sidebar h3 {
+    padding-left: 25px;
   }  
 }
 
