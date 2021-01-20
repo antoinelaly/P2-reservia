@@ -24,13 +24,16 @@ nav a, .plus p {
   font-size: 15px;
 }
 
-.parent h2, .parent h3 { 
+/*.parent h2, .parent h3 { 
   width: 100%;
   padding-left: 25px;
-}
+}*/
 
 .main h2 {
   font-size: 1.2em;
+  margin: 0.4em;
+  padding-top: 15px;
+  padding-left: 25px;
 }
 
 .lesfiltres h3 {
@@ -483,11 +486,6 @@ figure:hover {
   overflow: hidden;
   height: 113px;
   border-radius: 16px 16px 0px 0px;
-}
-
-.main h2 {
-  margin: 0.4em;
-  padding-top: 15px;
 }
 
 .fa-star {
