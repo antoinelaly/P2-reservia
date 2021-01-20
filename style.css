@@ -450,8 +450,8 @@ section.parent {
   .main {
     flex-direction: column;
     padding: 0;
-  align-items: center;
-  justify-content: center;
+  /*align-items: center;
+  justify-content: center;*/
   }
   
   fa-chart-line {
