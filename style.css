@@ -80,7 +80,7 @@ header, section, footer {
 
 
 @media (max-width: 600px) {
-  section {
+  .lesfiltres, .marseille {
     padding: 10px 20px;
   }
   header {
