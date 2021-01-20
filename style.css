@@ -451,9 +451,9 @@ section.parent {
   .parent {
     display: flex;
     flex-direction: column-reverse;
-    padding: 0px;
-  align-items: center;
-  justify-content: center;
+    padding: 10px;
+  /*align-items: center;
+  justify-content: center;*/
   }
   
   .main {
