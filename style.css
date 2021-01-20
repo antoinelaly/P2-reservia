@@ -449,7 +449,7 @@ section.parent {
   
   .main {
     flex-direction: column;
-    padding: 0;
+    padding: 15px 0;
   }
   
   fa-chart-line {
