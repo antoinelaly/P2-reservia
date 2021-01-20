@@ -34,7 +34,7 @@ nav a, .plus p {
 }
 
 .lesfiltres h3 {
-  margin-block-end: 5px;
+  margin: 5px;
 }
 
 h4, p { 
@@ -46,8 +46,8 @@ h4, p {
 }
 
 .button.rech  h5 {
- margin-block-start: 0.2em;
- margin-block-end: 00.15em;
+ margin: 0.2em;
+ margin: 00.15em;
 }
 
 .button.rech, .filtres .letitre b {
@@ -165,7 +165,7 @@ nav a:hover {
   }
   
   .lesfiltres h3 {
-    margin-block-end: 10px;
+    margin: 10px;
   }
   
    .hebeacti a {
@@ -206,7 +206,7 @@ nav a:hover {
   background-color: var(--gris);
 }
 
-.bsearch input[type="text" i] {
+.bsearch input[type="text"] {
   padding: 10px 12px 14px 12px;
   font: 800 18px Raleway;
   color: #000;
@@ -343,7 +343,7 @@ button {
   }
   
   .lesfiltres h3 {
-    margin-block-start: 0;
+    margin: 0;
   }
   
   .petitsb {
@@ -371,7 +371,7 @@ button {
   border-radius: 16px;
 }
   
-  .bsearch input[type="text" i] {
+  .bsearch input[type="text"] {
   font: 600 14px Raleway;
   width: 50vw;
   }
@@ -415,7 +415,7 @@ button {
   margin-top: 20px;
   }
   
-   .bsearch input[type="text" i] {
+   .bsearch input[type="text"] {
   padding: 11px 12px 14px 12px;
   font: 600 14px Raleway;
   width: 150px;
@@ -488,7 +488,7 @@ figure:hover {
 }
 
 .main h2 {
-  margin-block-end: 0.4em;
+  margin: 0.4em;
   padding-top: 15px;
 }
 
@@ -693,10 +693,7 @@ img {
 }
 
 .m-container figure {
-  margin-block-start: 0;
-  margin-block-end: 0;
-  margin-inline-start: 0;
-  margin-inline-end: 0;
+  margin: 0;
 }
 
 .m-container img {
@@ -789,7 +786,6 @@ footer .col {
 footer ul {
   display: flex;
   flex-direction: column;
-  padding-inline-start: 0px;
   padding-bottom: 25px;
 }
 
