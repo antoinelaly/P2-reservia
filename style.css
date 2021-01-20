@@ -83,6 +83,11 @@ header, section, footer {
   .lesfiltres, .marseille {
     padding: 10px 20px;
   }
+  
+  .parent {
+    padding: 0;
+  }
+  
   header {
    padding: 0;
    margin: 0;
